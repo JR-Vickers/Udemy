@@ -1,0 +1,1 @@
+This is a repository for all of my work on [Learn JavaScript - For Beginners](https://www.udemy.com/course/learn-javascript-for-beginners-v/).
